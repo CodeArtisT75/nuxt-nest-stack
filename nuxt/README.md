@@ -1,5 +1,3 @@
-# sokanacademy_nuxt
-
 ## Build Setup
 
 ```bash

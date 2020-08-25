@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        sokanacademy_nuxt
+        Nest Nuxt
       </h1>
       <div class="links">
         <a
